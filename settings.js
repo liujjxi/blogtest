@@ -1,6 +1,4 @@
 module.exports = {
   cookieSecret: 'myNblog-study',
-  db: 'Nblog-study',
-  host: 'localhost',
-  port: 27017
+  url:liujjxi:891202ljj@kahana.mongohq.com:10075/blog
 };
